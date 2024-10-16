@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp5_PreRelease;
+﻿namespace ConsoleApp5_Release;
 
 class Program
 {
